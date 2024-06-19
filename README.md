@@ -9,4 +9,6 @@
 
 <li>Logistic Regression
   
-#**Best Model Accuracy:** 95.00
+# Best Model Accuracy
+
+95.00
